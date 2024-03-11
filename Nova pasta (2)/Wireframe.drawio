@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-03-11T11:47:41.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_LckOZPZP7dYJQjK6bGf" version="24.0.4" type="device">
+  <diagram name="Página-1" id="B5NobC30JSyZZSdFmP5K">
+    <mxGraphModel dx="607" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="niJRjiPf5OT5wfuOegLW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="310" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="niJRjiPf5OT5wfuOegLW-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="niJRjiPf5OT5wfuOegLW-10" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="niJRjiPf5OT5wfuOegLW-12" value="Objetivo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niJRjiPf5OT5wfuOegLW-13" value="Habilidades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="niJRjiPf5OT5wfuOegLW-14" value="Experiências" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="niJRjiPf5OT5wfuOegLW-16" value="Formação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="niJRjiPf5OT5wfuOegLW-17" value="Nome" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="niJRjiPf5OT5wfuOegLW-18" value="Pessoais e contatos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
