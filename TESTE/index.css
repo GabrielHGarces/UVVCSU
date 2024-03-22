@@ -1,0 +1,11 @@
+table{
+    background-color:rgb(107, 233, 4);
+ 
+}
+table th:first-of-type {
+background-color: rgb(206, 255, 127);
+
+}
+table nth-of-type(A) {
+    background-color: rgb(206, 255, 127);
+}    
